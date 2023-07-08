@@ -2,7 +2,7 @@
 
 This is a 3D developer portfolio showcasing your projects and skills. The portfolio is built using ReactJS and ThreeJS to create interactive 3D experiences.
 
-## Installation
+# Installation
 
 1. Clone the repository:
    ```shell
