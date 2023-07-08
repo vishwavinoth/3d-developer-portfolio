@@ -5,10 +5,11 @@ This is a 3D developer portfolio showcasing your projects and skills. The portfo
 ## Installation
 
 1. Clone the repository:
-
    ```shell
    git clone https://github.com/your-username/your-portfolio.git
-
+   
+2. Navigate to the project directory:
+   ```shell
    cd your-portfolio
 
 npm install --legacy-peer-deps
