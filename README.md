@@ -6,7 +6,7 @@ This is a 3D developer portfolio showcasing your projects and skills. The portfo
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/vishwavinoth/3d-developer-portfolio.git
    
 2. Navigate to the project directory:
    ```shell
@@ -23,9 +23,12 @@ This is a 3D developer portfolio showcasing your projects and skills. The portfo
 5. To run the project in development mode, use the following command
    ```shell
    npm run dev
-
-# To build the project for production, use the following command
-npm run build
+   ```
+   This will start the development server, and you can access the portfolio at http://localhost:3000 in your web browser.
+   
+6. To build the project for production, use the following command
+   ```shell
+   npm run build
 
 # 3D Models
 You can enhance your portfolio by incorporating 3D models from Sketchfab. Visit the #Sketchfab website to explore and download 3D models that suit your projects.
