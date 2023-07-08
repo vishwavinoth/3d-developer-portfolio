@@ -2,6 +2,20 @@
 
 This is a 3D developer portfolio showcasing your projects and skills. The portfolio is built using ReactJS and ThreeJS to create interactive 3D experiences.
 
+## Introduction
+The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
+ 
+In this course, you'll learn the following:
+- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
+- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
+- TailwindCSS - a popular utility-first CSS styling framework
+- Framer Motion - the most popular library used to bring your React website to life with animations
+You'll also learn how to:
+- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
+- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
+- Implement sending emails through a form on the website
+- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+  
 # Installation
 
 1. Clone the repository:
@@ -30,15 +44,15 @@ This is a 3D developer portfolio showcasing your projects and skills. The portfo
    ```shell
    npm run build
 
-# 3D Models
+## 3D Models
 You can enhance your portfolio by incorporating 3D models from Sketchfab. Visit the #Sketchfab website to explore and download 3D models that suit your projects.
 https://sketchfab.com/3d-models/categories/electronics-gadgets?date=week&features=downloadable&sort_by=-likeCount&cursor=bz01OSZwPTE%3D
 
 
-# Demo Site
+## Demo Site
 Check out the live demo of the portfolio at http://vishwa-cv.netlify.app/. This will give you a preview of how your portfolio will appear online.
 
-# Screenshots
+## Screenshots
 ![image](https://user-images.githubusercontent.com/66408627/236393203-ee97ccd6-da71-42a9-af5a-6a9dc4f5b761.png)
 ![image](https://user-images.githubusercontent.com/66408627/236393229-eea886ab-c985-451d-bbd4-6ac068a6876b.png)
 ![image](https://user-images.githubusercontent.com/66408627/236393258-363c7f8b-f156-49d9-b5f8-6792a61e1f5f.png)
