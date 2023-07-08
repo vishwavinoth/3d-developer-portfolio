@@ -12,11 +12,17 @@ This is a 3D developer portfolio showcasing your projects and skills. The portfo
    ```shell
    cd your-portfolio
 
-npm install --legacy-peer-deps
-npm install --legacy-peer-deps three
+3. Install the required packages
+   ```shell
+   npm install --legacy-peer-deps
+   
+4. Install the 'three' package
+   ```shell
+   npm install --legacy-peer-deps three
 
-# To run the project in development mode, use the following command
-npm run dev
+5. To run the project in development mode, use the following command
+   ```shell
+   npm run dev
 
 # To build the project for production, use the following command
 npm run build
